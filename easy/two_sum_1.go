@@ -14,7 +14,7 @@ func twoSum(nums []int, target int) []int {
 	return res
 }
 
-// Optimal approach using map \n
+// Optimal approach using map
 // O(n^2) time complexity (worst case)
 // Θ(n) time complexity (average case)
 func twoSum1(nums []int, target int) []int {
